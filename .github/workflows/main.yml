@@ -16,7 +16,7 @@ on:
   workflow_dispatch:
   
 env:
-  MANIFEST: git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-10.0-deprecated
+  MANIFEST: orangefox10
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
