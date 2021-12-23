@@ -34,4 +34,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
+        uses: rokibhasansagar/slimhub_actions@main
+        
+      - name: Run a multi-line script
         uses: ElytrA8/Recovery-Compiler@V1.0
